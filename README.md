@@ -48,13 +48,13 @@ To be able to run the program, you will need to set up the output device. Afraid
 
 Now that you have the environment set up, you can now proceed with loading the program into Ripes for execution.
 
-Locate the menu bar to the top of the Ripe swindow,click on it to bring a drop-down menu. Click on “Load Program”. (See image below)
+[1]: Locate the menu bar to the top of the Ripe swindow,click on it to bring a drop-down menu. Click on “Load Program”. (See image below)
 
 <p align="center">
   <img src="https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/blob/00f33ab4b875f4204c0cce1966ea8cd43a90cc09/img/figure5.jpg" width="250" title="Ripes peripheral selector">
 </p>
 
-In the pop-up window,the first option you will see is “File type”. Choose “Source file” by clicking on it. For the second option “File”, click on “Open...” and locate the assembly file you downloaded. Click te “OK” button to confirm your choices.
+[2]: In the pop-up window,the first option you will see is “File type”. Choose “Source file” by clicking on it. For the second option “File”, click on “Open...” and locate the assembly file you downloaded from [src](https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/tree/d0083b9764f7d49f3f8afde1cc22aabdd4a1a334/src). Click te “OK” button to confirm your choices.
 
 <p align="center">
   <img src="https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/blob/00f33ab4b875f4204c0cce1966ea8cd43a90cc09/img/figure6.jpg" width="350" title="Ripes load program window">
