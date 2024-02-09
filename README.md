@@ -1,3 +1,6 @@
+V1.1 improvements:
+Compact character encoding
+
 Please read this document carefully to get String Print running properly on your machine. 
 
 <p align="center">
