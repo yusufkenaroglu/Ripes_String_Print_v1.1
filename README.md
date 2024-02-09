@@ -1,9 +1,4 @@
-V1.1 only supports upper case English alphabet letters (ASCII 65-90). 
-
-A maximum of 13 characters can be printed onto the matrix ("WELCOMEBAAACK")
-
-Only non-empty strings print as expected
-
+Please read this document carefully to get String Print running properly on your machine. 
 
 <p align="center">
   <img src="https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/blob/00f33ab4b875f4204c0cce1966ea8cd43a90cc09/img/WELCOME.jpg" width="350" title="WELCOME image">
@@ -60,7 +55,7 @@ Now that you have the environment set up, you can now proceed with loading the p
   <img src="https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/blob/00f33ab4b875f4204c0cce1966ea8cd43a90cc09/img/figure6.jpg" width="350" title="Ripes load program window">
 </p>
 
-## 3️⃣ Executing the program
+## 3️⃣ Executing the program for the first time
 
 You will be modifying a string stored at a label to print it onto the LED matrix display. Ways to modify said string and disclaimers will be explained further.
 
@@ -87,3 +82,27 @@ You may wish to use Ripes in Dark mode for improved visual contrast. To do so, c
 <p align="center">
   <img src="https://github.com/yusufkenaroglu/Ripes_String_Print_v1.1/blob/da300b8b66163d78fb72494acd8e90a32907b9f3/img/figure10.jpg" width="750" title="Ripes dark mode">
 </p>
+
+## 4️⃣ Miscellaneous 
+
+After running the program for the first time, you may wish to run it again, either to print the same string or a different one.
+
+To run the program again without making changes to the string, locate the "Reset the simulator" button and click on it once. (See image below for red highlight)
+
+<p align="center">
+  <img src="https://github.com/yusufkenaroglu/Ripes_String_Print_v1.1/blob/c851118c113ccddc13a46fa8f17cc3213d183dc1/img/figure11.jpg" width="500" title="Ripes reset the simulator button">
+</p>
+
+To run the program again to print a different string, go to the editor tab and change the string value stored at the address labeled as __string_to_print__ located right under __.data__ section on line 7. 
+
+Any changes made to the string (or any other part of the source code for that matter) will automatically reset the simulator. Clicking on the >> button will suffice.
+
+## 5️⃣ Disclaimers and troubleshooting
+
+V1.1 only supports upper case English alphabet letters (ASCII 65-90). 
+
+A maximum of 13 characters can be printed onto the matrix ("WELCOMEBAAACK")
+
+Only non-empty strings print as expected
+
+If you face issues while executing the program where the LED matrix does not light up as expected, you may reset the simulator. To do so, locate “Reset the simulator” button and click on it once as shown in step 4️⃣.
