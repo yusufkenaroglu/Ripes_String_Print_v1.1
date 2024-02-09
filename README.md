@@ -73,7 +73,17 @@ Before executing the program, head back to the I/O tab if you have navigated awa
 Now, you can go back to the editor tab which contains instructions for the assembly program. Go ahead and run the program by clicking on the >> button. (See image below for green highlight)
 
 <p align="center">
-  <img src="https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/blob/f9aa552bf41613be1c91847444daea9f575944af/img/figure8.jpg" width="500" title="Ripes LED Matrix popped out">
+  <img src="https://github.com/yusufkenaroglu/RIPES-String-Print-v1.0/blob/f9aa552bf41613be1c91847444daea9f575944af/img/figure8.jpg" width="500" title="Ripes program execution button">
 </p>
 
-Without changes to the original program, you should see "WELCOME" get printed on the display letter by letter. The program (for V1.1) stops execution once all letters are printed.
+Without changes to the original program, you should see "WELCOME" get printed on the display letter by letter. The program (for V1.1) stops execution once all letters are printed. (See image below)
+
+<p align="center">
+  <img src="https://github.com/yusufkenaroglu/Ripes_String_Print_v1.1/blob/c84c191b95eed410aeaabe91549f2d705282bd68/img/figure%209.jpg" width="750" title="Ripes printing WELCOME">
+</p>
+
+You may wish to use Ripes in Dark mode for improved visual contrast. To do so, change theme settings on your host OS to dark. Ripes will adapt its UI accordingly.
+
+<p align="center">
+  <img src="https://github.com/yusufkenaroglu/Ripes_String_Print_v1.1/blob/da300b8b66163d78fb72494acd8e90a32907b9f3/img/figure10.jpg" width="750" title="Ripes dark mode">
+</p>
