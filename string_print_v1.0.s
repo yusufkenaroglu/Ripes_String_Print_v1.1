@@ -3,7 +3,7 @@
 #13 LETTERS MAX
 
 .data
-string_to_print: .string "SAMPLE"
+string_to_print: .string "WELCOME"
 
 LED_ON_COLOUR: .word 0xf6cc4c
 A_x: .byte 1, 2, 3, 0, 4, 0, 4, 0, 4, 0, 1, 2, 3, 4, 0, 4, 0, 4
